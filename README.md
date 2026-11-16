@@ -11,7 +11,7 @@
 - Публичный ключ сохранен в `C:\Users\slava\.ssh\id_ed25519.pub`.
 
 *Подтверждение защиты ключа паролем (запрос passphrase):*
-![Проверка passphrase](1-passphrase.png)
+![Проверка passphrase](1-passphrase-check.png)
 
 ## 2. Добавление ключа в GitHub
 Публичный ключ скопирован и добавлен в аккаунт GitHub (Settings -> SSH and GPG keys).
